@@ -23,7 +23,7 @@ public class Test1 {
         System.out.println(list1);
         list1.remove(0);
         System.out.println(list1);
-        String s = "madam!!!";
+        String s = "madam!!";
 
         List<Character> charLinkedList = new LinkedList<>();
         for (char c:s.toCharArray()
