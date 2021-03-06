@@ -15,7 +15,7 @@ public class Test1 {
         list1.add("name4");
         list1.add("name5");
         list1.add("name6");
-        list1.add("name7");
+        list1.add("name777");
         list1.add(3,"name8");
         System.out.println(list1);
         System.out.println(list1.get(3));
